@@ -1,0 +1,30 @@
+.DS_Store
+
+bin/*
+!data
+
+bin/data/output/*
+bin/data/settings.xml
+
+# Mac
+resources/*
+config.make
+noiseMesh3d.xcodeproj
+Makefile
+openFrameworks-Info.plist
+Project.xcconfig
+addons.make
+
+# win
+noiseMesh3d.sdf
+noiseMesh3d.sln
+noiseMesh3d.vcxproj
+noiseMesh3d.vcxproj.filters
+noiseMesh3d.vcxproj.user
+noiseMesh3d.VC.opendb
+addons.make
+icon.aps
+icon.rc
+obj/*
+.vs
+
